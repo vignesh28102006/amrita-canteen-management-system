@@ -135,8 +135,8 @@ src/
 
 ## 👤 Author
 
-* **Your Name**
-* GitHub: https://github.com/your-username
+* Vasala Vignesh
+* GitHub: https://github.com/vignesh28102006
 
 ---
 
